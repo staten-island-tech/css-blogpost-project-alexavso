@@ -1,5 +1,42 @@
 h1 {
     font: size 10rem;
     text-align: center;
-    color:black
+    color: black
+}
+
+#div-0 {
+    margin: 20px;
+    padding: 20px;
+    background-color: bisque;
+}
+
+#post-one {
+    margin: 20px;
+    padding: 50px;
+    background-color: beige;
+    display: inline-block;
+    text-align: center;
+    font: size 10rem;
+    font-weight: bold;
+}
+
+h2 {
+    font: size 10rem;
+    text-align: top;
+    color: black
+}
+
+#post-two {
+    margin: 20px;
+    padding: 50px;
+    background-color: beige;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+}
+
+h3 {
+    font: size 10rem;
+    text-align: top;
+    color: black
 }
