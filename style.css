@@ -7,12 +7,12 @@ h1 {
 #div-0 {
     margin: 20px;
     padding: 20px;
-    background-color: bisque;
+    background-color: beige;
 }
 
 #post-one {
     margin: 20px;
-    padding: 50px;
+    padding: 20px;
     background-color: beige;
     display: inline-block;
     text-align: center;
@@ -28,7 +28,7 @@ h2 {
 
 #post-two {
     margin: 20px;
-    padding: 50px;
+    padding: 20px;
     background-color: beige;
     display: inline-block;
     text-align: center;
